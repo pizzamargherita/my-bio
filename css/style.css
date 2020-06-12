@@ -1,0 +1,125 @@
+body {
+    background-color: #F070A1;
+    color:black;
+    font-family: georgia, 'Times New Roman', serif ;
+    font-size: 1.200em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    background-color: #16ffbd;
+}
+
+.pic {
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.primary-heading {
+    color: black; 
+    font-weight: 1800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 30cm;
+}
+    
+.highlight{
+      background-color: yellow;
+
+}
+
+.secondary-heading{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+
+.hythere {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:#12c998 ;
+font-size: x-large;
+color: white;
+font-weight: 1800;
+}
+
+.mycutelist{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:#c34271 ;
+font-size: medium;
+color: white;
+font-weight: 700;
+}
+
+.funfacts{
+    text-decoration: underline;
+    background-color: aquamarine;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
+.question{
+color: #16ffbd
+}
+    
+.highlight {
+    background-color: yellow;
+    color: #439f76;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: initial;
+}
+.center-this {
+    text-align: center;
+}
+.left-side{
+    text-align: left;
+}
+
+.interests {
+    text-decoration: underline;
+    background-color: seashell;
+    font-weight: 800;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
+.box{
+    background-color: greenyellow;
+    text-align: justify;
+    font-size: x-large;
+    
+    box-sizing: content-box;
+    width: 200px; 
+    height: auto; 
+    
+    padding: 2em;
+    border: 3px dashed black;
+    border-width: 10px;
+    border-left: 2em solid yellow;
+    border-bottom: 2 em;
+    border-radius: 2em;
+    margin: 3em;
+}
+  
+   .box2 {
+    background-color: lightgreen;
+    text-align: center;
+    box-sizing: content-box;
+    width: 6em; 
+    height: 6em; 
+    border-radius: 100%;
+    margin-left: 16cm;
+    font-size: large;
+    font-weight: 700;
+   
+     
+     
+  }
+
+
